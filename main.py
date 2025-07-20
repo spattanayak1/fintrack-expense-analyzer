@@ -31,6 +31,6 @@ async def analyze(file: UploadFile = File(...)):
 
     return {
         "answer": round(float(total), 2),
-        "email": "your_email@example.com",  # ← Replace with your real email
+        "email": "24f3000061@ds.study.iitm.ac.in",  # ← Replace with your real email
         "exam": "tds-2025-05-roe"
     }
